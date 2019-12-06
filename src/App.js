@@ -1,24 +1,17 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+
+import classList from './classList';
+import Definition from './definition/AutocompleteDefinition';
+import Autocomplete from './autocomplete-demo/Autocomplete';
+import GoogleFeud from './google-feud/google-feud';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Definition />
+      <GoogleFeud />
+      <Autocomplete suggestions={classList} />
     </div>
   );
 }

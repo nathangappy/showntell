@@ -1,0 +1,17 @@
+.google-feud {
+  height: 100vh;
+  background: lightgreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.google-feud h2 {
+  font-size: 5rem;
+}
+
+.google-feud a {
+  color: #fff;
+  margin-top: 2rem;
+  font-size: 2rem;
+}

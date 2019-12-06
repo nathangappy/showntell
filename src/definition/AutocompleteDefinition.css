@@ -1,0 +1,22 @@
+/* Definition Styles */
+.definition {
+  background: lightblue;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  justify-items: flex-start;
+}
+.definition-box {
+  width: 80%;
+}
+
+.definition-box p {
+  font-size: 2rem;
+}
