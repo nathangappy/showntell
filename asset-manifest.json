@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/showntell/static/css/main.0626956c.chunk.css",
-    "main.js": "/showntell/static/js/main.83a7cd68.chunk.js",
-    "main.js.map": "/showntell/static/js/main.83a7cd68.chunk.js.map",
+    "main.css": "/showntell/static/css/main.c9a95436.chunk.css",
+    "main.js": "/showntell/static/js/main.b3458100.chunk.js",
+    "main.js.map": "/showntell/static/js/main.b3458100.chunk.js.map",
     "runtime-main.js": "/showntell/static/js/runtime-main.32a7a2cc.js",
     "runtime-main.js.map": "/showntell/static/js/runtime-main.32a7a2cc.js.map",
-    "static/js/2.dded3b4d.chunk.js": "/showntell/static/js/2.dded3b4d.chunk.js",
-    "static/js/2.dded3b4d.chunk.js.map": "/showntell/static/js/2.dded3b4d.chunk.js.map",
+    "static/js/2.2fdcf2c5.chunk.js": "/showntell/static/js/2.2fdcf2c5.chunk.js",
+    "static/js/2.2fdcf2c5.chunk.js.map": "/showntell/static/js/2.2fdcf2c5.chunk.js.map",
     "index.html": "/showntell/index.html",
-    "precache-manifest.275b99858706619b9f489f8dec500fff.js": "/showntell/precache-manifest.275b99858706619b9f489f8dec500fff.js",
+    "precache-manifest.af90552198eca3077035535ff15a53f3.js": "/showntell/precache-manifest.af90552198eca3077035535ff15a53f3.js",
     "service-worker.js": "/showntell/service-worker.js",
-    "static/css/main.0626956c.chunk.css.map": "/showntell/static/css/main.0626956c.chunk.css.map",
+    "static/css/main.c9a95436.chunk.css.map": "/showntell/static/css/main.c9a95436.chunk.css.map",
     "static/media/autocomplete-fails-1.jpg": "/showntell/static/media/autocomplete-fails-1.8632728d.jpg",
     "static/media/autocomplete-fails-2.jpg": "/showntell/static/media/autocomplete-fails-2.e8f8f369.jpg",
+    "static/media/autocomplete-file-render.jpg": "/showntell/static/media/autocomplete-file-render.3a60a4f9.jpg",
+    "static/media/autocomplete-file.jpg": "/showntell/static/media/autocomplete-file.4f67596a.jpg",
+    "static/media/autocomplete-logic.jpg": "/showntell/static/media/autocomplete-logic.4ea89165.jpg",
+    "static/media/autocomplete-sanfran.png": "/showntell/static/media/autocomplete-sanfran.b2f8d7ea.png",
+    "static/media/class-list.jpg": "/showntell/static/media/class-list.66c06cd2.jpg",
     "static/media/textbox.jpg": "/showntell/static/media/textbox.4b721353.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.32a7a2cc.js",
-    "static/js/2.dded3b4d.chunk.js",
-    "static/css/main.0626956c.chunk.css",
-    "static/js/main.83a7cd68.chunk.js"
+    "static/js/2.2fdcf2c5.chunk.js",
+    "static/css/main.c9a95436.chunk.css",
+    "static/js/main.b3458100.chunk.js"
   ]
 }
