@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/showntell/static/css/main.a73983ac.chunk.css",
+    "main.css": "/showntell/static/css/main.0626956c.chunk.css",
     "main.js": "/showntell/static/js/main.83a7cd68.chunk.js",
     "main.js.map": "/showntell/static/js/main.83a7cd68.chunk.js.map",
     "runtime-main.js": "/showntell/static/js/runtime-main.32a7a2cc.js",
@@ -8,9 +8,9 @@
     "static/js/2.dded3b4d.chunk.js": "/showntell/static/js/2.dded3b4d.chunk.js",
     "static/js/2.dded3b4d.chunk.js.map": "/showntell/static/js/2.dded3b4d.chunk.js.map",
     "index.html": "/showntell/index.html",
-    "precache-manifest.d05afbd39eb9a64523d5c8e0b9dc3be3.js": "/showntell/precache-manifest.d05afbd39eb9a64523d5c8e0b9dc3be3.js",
+    "precache-manifest.275b99858706619b9f489f8dec500fff.js": "/showntell/precache-manifest.275b99858706619b9f489f8dec500fff.js",
     "service-worker.js": "/showntell/service-worker.js",
-    "static/css/main.a73983ac.chunk.css.map": "/showntell/static/css/main.a73983ac.chunk.css.map",
+    "static/css/main.0626956c.chunk.css.map": "/showntell/static/css/main.0626956c.chunk.css.map",
     "static/media/autocomplete-fails-1.jpg": "/showntell/static/media/autocomplete-fails-1.8632728d.jpg",
     "static/media/autocomplete-fails-2.jpg": "/showntell/static/media/autocomplete-fails-2.e8f8f369.jpg",
     "static/media/textbox.jpg": "/showntell/static/media/textbox.4b721353.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.32a7a2cc.js",
     "static/js/2.dded3b4d.chunk.js",
-    "static/css/main.a73983ac.chunk.css",
+    "static/css/main.0626956c.chunk.css",
     "static/js/main.83a7cd68.chunk.js"
   ]
 }
